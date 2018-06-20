@@ -1,0 +1,22 @@
+{
+  "name": "riskify",
+  "version": "0.1.0",
+  "description": "A service based API and corresponding Web App for Risk Management roughly in accordance with ISO31000",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/itinerantcoder/riskify.git"
+  },
+  "keywords": [
+    "risk"
+  ],
+  "author": "Paul Lambros",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/itinerantcoder/riskify/issues"
+  },
+  "homepage": "https://github.com/itinerantcoder/riskify#readme"
+}
