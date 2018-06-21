@@ -1,7 +1,7 @@
 {
   "name": "riskify",
   "version": "0.1.0",
-  "description": "A service based API and corresponding Web App for Risk Management roughly in accordance with ISO31000",
+  "description": "A Web App for Risk Management roughly in accordance with ISO31000, using the Riskify API",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
